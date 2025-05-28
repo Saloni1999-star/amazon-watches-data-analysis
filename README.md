@@ -133,6 +133,9 @@ The project followed a structured data science workflow:
 * **Alternative Modeling:**
     * Experiment with different regression models (e.g., XGBoost, LightGBM) or neural networks.
     * Consider **predicting price ranges (classification problem)** instead of exact prices, which might be more robust to the dataset's inherent structure.
+    * codespace-fluffy-happiness-97wwv6r799gx2x4q5
 
+
+main
 * **Data Source Investigation:** If data leakage persists, a deeper investigation into the original data collection method and unique identifiers might be necessary.
 * **Web Scraping Enhancement:** Expand the dataset with more attributes (e.g., ratings, reviews, seller information) for a richer analysis.
